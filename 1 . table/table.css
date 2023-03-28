@@ -1,0 +1,21 @@
+.heading {
+  text-align: center;
+}
+table,
+th,
+td {
+  border: 1px solid black;
+}
+table {
+  border-collapse: collapse;
+  width: 100%;
+  background-color: grey;
+  color: white;
+}
+
+th {
+  height: 50px;
+}
+td {
+  text-align: center;
+}
